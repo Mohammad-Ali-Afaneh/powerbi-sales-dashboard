@@ -29,7 +29,7 @@ The dataset includes:
 * Some products (like Tables) generate losses
 * Copiers are among the most profitable products
 
-## 🛠 Tools Used
+##  Tools Used
 
 * Power BI
 * DAX
